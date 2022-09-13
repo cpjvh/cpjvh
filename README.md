@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiM-AY
+- 👋 Hi, I’m @KiM-AYong
 - 👀 I’m interested in computer security
 - 🌱 I’m currently learning CS
 - 📫 How to reach me cpjvh@naver.com
