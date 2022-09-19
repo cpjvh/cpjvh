@@ -2,11 +2,12 @@
 
 🔥 An Undergraduate Student at SRC Lab.
 
-👀 Major : Software
-
+<br>👀 Major : Software<br>
+<br>
 🌱 I’m currently learning
  - Computer Security
  - Computer Architecture
+ </br> 
 
 📫 How to reach me
  - email : cpjvh@naver.com
