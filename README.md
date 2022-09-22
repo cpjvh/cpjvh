@@ -1,9 +1,9 @@
 👋 Hi, I’m @KiM-AYoung
 
-🔥 An Undergraduate Student at SRC Lab.
+🔥 An Undergraduate Student at Secure and Reliable Computing Lab. 
 [2021.12.17 ~ ]
 
-<br>👀 Major : Software<br>
+<br>👀 Major : Software </br>
 <br>
 🌱 I’m currently learning
  - Computer Security
