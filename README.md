@@ -6,7 +6,7 @@
 <br>👀 Major : Software </br>
 <br>
 🌱 I’m currently learning
- - Computer Security
+ - **Computer Security**
  - Computer Architecture
  </br> 
 
