@@ -11,5 +11,5 @@
  </br> 
 
 📫 How to reach me
- - email : cpjvh@naver.com
+ - email : cpjvh35@gmail.com
  - Instagram DM : @cpjvh_4029
